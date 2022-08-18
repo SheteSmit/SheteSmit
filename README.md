@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SheteSmit
 - 👀 I’m interested in Software Engineering, Artifical Intelligence, Data Science, and Cybersecurity
-- 🌱 I’m currently learning more about web development
+- 🌱 I’m currently learning more about neural networks
 - 📫 How to reach me: shetesmit@gmail.com
 - 🎓 Current Sophmore at the Georgia Institute of Technology: Computer Science Major
 
