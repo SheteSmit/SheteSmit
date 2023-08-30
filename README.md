@@ -13,7 +13,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shetesmit&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="shetesmit" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shetesmit&show_icons=true&locale=en" alt="shetesmit" /></p>
+
 
 <!---
 SheteSmit/SheteSmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
