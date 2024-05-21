@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Engineering, Artifical Intelligence, Data Science, and Cybersecurity
 - 🌱 I’m currently learning more about neural networks
 - 📫 How to reach me: shetesmit@gmail.com / sshete30@gatech.edu
-- 🎓 Current Junior at the Georgia Institute of Technology: Computer Science Major
+- 🎓 Current Senior at the Georgia Institute of Technology: Computer Science Major
 
 <p align="center">
 </p>
