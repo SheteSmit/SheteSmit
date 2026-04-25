@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building agentic AI solutions with AWS partners
+Solutions Architect/AI Acceleration Architect at AWS. Currently building agentic AI solutions with AWS partners
 
 
 ## 🌐 Socials:
